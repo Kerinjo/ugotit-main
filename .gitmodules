@@ -1,0 +1,9 @@
+[submodule "recipe-page"]
+	path = recipe-page
+	url = https://github.com/Kerinjo/recipe-page
+[submodule "courier-panel"]
+	path = courier-panel
+	url = https://github.com/Kerinjo/courier-panel
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kerinjo/backend
